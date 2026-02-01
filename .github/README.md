@@ -2,7 +2,7 @@
 =========================
 
 A script that helps you *instantly* generate a beautiful GitHub Contributions Graph
-for the last year.  
+for the last year.    
   
 ## ⚠ Disclaimer
 
